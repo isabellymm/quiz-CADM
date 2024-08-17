@@ -9,7 +9,7 @@ Quizly é um aplicativo de perguntas e respostas desenvolvido em React Native qu
 </p>
 
 ### Funcionalidades
-- Níveis de Dificuldade: O jogo possui 4 níveis de dificuldade, com 5 perguntas cada.
+- Níveis de Dificuldade: O jogo possui 4 níveis de dificuldade, com 4 perguntas cada.
 - Banco de Dados no Firebase Firestore: As perguntas e respostas são armazenadas no Firestore, permitindo fácil manipulação e escalabilidade.
 - Pontuação: O usuário acumula pontos a cada resposta correta.
 - Modal de Finalização: Um modal exibe a pontuação final do usuário ao finalizar o jogo ou quando ele erra uma questão.
